@@ -18,8 +18,7 @@ This repo is about how to create Maven project:
 You must have Maven installed.
 1. In your C:\temp folder, Open PowerShell as Administrator and run:
 1. mvn archetype:generate
-1. What does this command do? Guess how many project archetypes we can auto-generate?
-1. It will ask you to choose a number or accept the default, to accept hit ENTER
+1. It will ask you to choose a number or accept the default, to accept hit ENTER.I have choosen default archetype:1743
 1. It will default to the most recent version, to accept the default, hit ENTER
 1. It will ask your 'groupId', enter your choice above, e.g., edu.nwmissouri.bigdata.superstar  and hit ENTER
 1. It will ask your 'artifactId', enter your repo name, e.g., maven-java-app and hit ENTER
